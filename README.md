@@ -27,7 +27,13 @@ Leak Detection: Machine learning and signal processing algorithms analyze pressu
 Optimization: Genetic algorithms and linear programming optimize operational parameters like pressure and capacity.
 Monitoring and Control: SCADA (Supervisory Control and Data Acquisition) systems use real-time algorithms for pipeline monitoring.
 -  
-- *Project 2*:ELECTRICITY CONNECTION 
+- *Project 2*:ELECTRICITY CONNECTION
+- The Electricity Connection System is a project aimed at optimizing the process of managing electricity connections, including the allocation, tracking, and maintenance of customer connections in an efficient manner. This system is designed to handle various operations such as connection requests, service upgrades, billing, and fault reporting. The goal is to use algorithmic design principles to ensure the system performs efficiently, minimizing response times and resource utilization while maintaining accuracy and reliability.
+To design an automated electricity connection management system that efficiently handles customer requests, service status, and fault resolution while minimizing the time complexity of core operations.
+Automated processing of new electricity connection applications.
+Real-time monitoring of power distribution networks.
+Efficient billing and payment management with minimal overhead.
+By integrating algorithmic design techniques, this project enhances the overall performance of electricity management systems, providing a robust, scalable, and efficient solution for modern utilities.
 ## 🚀 Skills
  C++, Python, DAA
  Data Structures and Algorithms
