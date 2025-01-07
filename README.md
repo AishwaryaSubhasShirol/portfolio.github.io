@@ -29,9 +29,12 @@ Monitoring and Control: SCADA (Supervisory Control and Data Acquisition) systems
 -  
 - *Project 2*:ELECTRICITY CONNECTION 
 ## 🚀 Skills
-- C++, Python, DAA
-- Data Structures and Algorithms
-- Web Development (React.js, Node.js)
+ C++, Python, DAA
+ Data Structures and Algorithms
+ Proficient in C++, **Java, and **Python.
+ Strong grasp of Data Structures and Algorithms.
+ Expertise in problem-solving through advanced DAA techniques.
+ Experience with project development and team collaboration.
 
 ## 🌐 Find Me Online
 - [GitHub](https://aishwaryasubhasshirol.github.io/portfolio.github.io/)
@@ -47,11 +50,11 @@ Monitoring and Control: SCADA (Supervisory Control and Data Acquisition) systems
 <dt>Name</dt>
 <dd>Aishwarya Shirol</dd>
 <dt>SRN</dt>
-<dd>Your 02fe23bcs147</dd>
+<dd> 02fe23bcs147</dd>
 <dt>Course Instructor Name:</dt>
 <dd>DR.Vaishali Parab</dd>
 <dt> University Name</dt>
-<dd>Dr.M S Sheshgiri Kle Technological University Belagavi</dd>
+<dd>Dr.M. S .Sheshgiri Kle Technological University Belagavi</dd>
 <dt>Portfolio Topic:SMART NETWORKING SYSTEM</dt>
 <dt>Domain:</dt>
 <dt>Computer Science</dt>
