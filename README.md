@@ -42,7 +42,7 @@ Monitoring and Control: SCADA (Supervisory Control and Data Acquisition) systems
 <dl>
 <dt>DAA</dt>
 <dd>Algorithmic Problem Solving</dd>
-<dt>24ECSP205</dt>
+<dt>24ECAP202 </dt>
 <dd>Course Cordinator:DR.Vaishali Parab</dd>
 <dt>Name</dt>
 <dd>Aishwarya Shirol</dd>
