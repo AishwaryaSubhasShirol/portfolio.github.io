@@ -27,14 +27,14 @@ Leak Detection: Machine learning and signal processing algorithms analyze pressu
 Optimization: Genetic algorithms and linear programming optimize operational parameters like pressure and capacity.
 Monitoring and Control: SCADA (Supervisory Control and Data Acquisition) systems use real-time algorithms for pipeline monitoring.
 -  
-- *Project 2*: 
+- *Project 2*:ELECTRICITY CONNECTION 
 ## 🚀 Skills
-- C++, Python, JavaScript
+- C++, Python, DAA
 - Data Structures and Algorithms
 - Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
+- [GitHub](https://aishwaryasubhasshirol.github.io/portfolio.github.io/)
 - [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
 
 ## Portfolio Topic
@@ -42,18 +42,18 @@ Monitoring and Control: SCADA (Supervisory Control and Data Acquisition) systems
 <dl>
 <dt>DAA</dt>
 <dd>Algorithmic Problem Solving</dd>
-<dt>24ECAP202 </dt>
-<dd>Course Cordinator:DR.Vaishali Parab</dd>
+<dt>CourseCode </dt>
+<dd>Course Cordinator:24ECAP202</dd>
 <dt>Name</dt>
 <dd>Aishwarya Shirol</dd>
 <dt>SRN</dt>
 <dd>Your 02fe23bcs147</dd>
 <dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>DR.Vaishali Parab</dd>
 <dt> University Name</dt>
 <dd>Dr.M S Sheshgiri Kle Technological University Belagavi</dd>
-<dt>Portfolio Topic/Domain</dt>
-<dd>SMART NETWORKING</dd>
+<dt>Portfolio Topic:SMART NETWORKING SYSTEM</dt>
+<dd></dd>
 </dl>
 
 <br> 
