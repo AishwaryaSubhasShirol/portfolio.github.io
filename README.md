@@ -48,11 +48,13 @@ Monitoring and Control: SCADA (Supervisory Control and Data Acquisition) systems
 <dd>Aishwarya Shirol</dd>
 <dt>SRN</dt>
 <dd>Your 02fe23bcs147</dd>
-<dt>Course Instructor</dt>
+<dt>Course Instructor Name:</dt>
 <dd>DR.Vaishali Parab</dd>
 <dt> University Name</dt>
 <dd>Dr.M S Sheshgiri Kle Technological University Belagavi</dd>
 <dt>Portfolio Topic:SMART NETWORKING SYSTEM</dt>
+<dt>Domain:</dt>
+<dt>Computer Science</dt>
 <dd></dd>
 </dl>
 
